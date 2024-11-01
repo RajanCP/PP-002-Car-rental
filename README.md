@@ -18,7 +18,7 @@ This is my personal project based on a Car Rental website
 
 ### Links
 
-- Solution URL: 
+-Link: https://rajancp.github.io/PP-002-Car-rental/
 
 ### Built with
 
