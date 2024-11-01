@@ -14,8 +14,7 @@ This is my personal project based on a Car Rental website
 
 ### Screenshot
 
-![](/NA)
-
+![](/submission.png)
 ### Links
 
 -Link: https://rajancp.github.io/PP-002-Car-rental/
