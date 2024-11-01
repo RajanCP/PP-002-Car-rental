@@ -1,6 +1,6 @@
-# PP - 001 Login Form
+# PP - 002 Car rental
 
-This is my personal project based on a Login Form
+This is my personal project based on a Car Rental website
 
 ## Table of contents
 
@@ -14,16 +14,17 @@ This is my personal project based on a Login Form
 
 ### Screenshot
 
-![](./submission.png)
+![](/NA)
 
 ### Links
 
-- Solution URL: N/A
+- Solution URL: 
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML
+- CSS
+- Vanilla JS
 
 ## Author
 
