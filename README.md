@@ -9,9 +9,9 @@
 - [Author](#author)
 
 ## Overview
-This is my personal project based on a car rental. I did not want to use any frameworks in this to practise my skills on Vanilla Javascript.<br>
--This was based on a project from Web Design Mastery (https://webdesignmastery.github.io/Rental_07-09-24/).<br>
--I tweaked the landing page and added an FAQ, Fleet model selector as well as various design changes.<br>
+This is my personal project based on a car rental.
+<br/>This was based on a project from Web Design Mastery (https://webdesignmastery.github.io/Rental_07-09-24/).<br>
+I tweaked the landing page and added an FAQ, Fleet model selector as well as various design changes.<br>
 
 ### Screenshot
 
