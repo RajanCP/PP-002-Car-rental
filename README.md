@@ -1,4 +1,4 @@
-# PP - 002 Car rental (tutorial guide)
+# PP - 002 Car rental 
 
 ## Table of contents
 
