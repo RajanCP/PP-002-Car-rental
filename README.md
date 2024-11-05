@@ -1,20 +1,12 @@
 # PP - 002 Car rental 
 
-## Table of contents
-
-- [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
-
 ## Overview
 This is my personal project based on a car rental.
 <br/>This was based on a project from Web Design Mastery (https://webdesignmastery.github.io/Rental_07-09-24/).<br>
-I tweaked the landing page and added an FAQ, Fleet model selector as well as various design changes.<br>
+I tweaked the landing page and added my own sections like FAQ, Fleet model selector.
+I used a tutorial to further my understanding on hamburger menus and the logo carousel.
 
 ### Screenshot
-
 ![](./submission.png)
 
 ### Links
@@ -23,9 +15,7 @@ I tweaked the landing page and added an FAQ, Fleet model selector as well as var
 
 ### Built with
 
-- HTML
-- CSS 
-- JS
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ## Author
 
